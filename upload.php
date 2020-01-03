@@ -3,6 +3,7 @@
 
 <?php
 // Include the database configuration file
+                //host,username,password,database
 $db = new mysqli("localhost", "root","p@ssw0rd","learning");
 
 // Check connection
